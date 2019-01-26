@@ -11,7 +11,7 @@
 
 #### Ejemplo de uso
 
-![Ejemplos de uso](C:\Users\Ricardo\Desktop\Github's repositories\C programs\cajeroAutomatico\p.png)
+![Ejemplos de uso](p.png)
 
 #### Compilación.
 
